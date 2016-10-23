@@ -1,0 +1,3 @@
+[submodule "google-datalab-template"]
+	path = google-datalab-template
+	url = https://github.com/TheLarsonAgency/google-datalab-template.git
